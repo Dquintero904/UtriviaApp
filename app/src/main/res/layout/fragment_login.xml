@@ -116,7 +116,7 @@
             android:paddingTop="16dp"
             android:paddingRight="16dp"
             android:paddingBottom="16dp"
-            android:text="SIGN UP"
+            android:text="Registrate"
             android:textColor="@color/orange" />
 
     </LinearLayout>
